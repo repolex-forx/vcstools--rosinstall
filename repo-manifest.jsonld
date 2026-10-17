@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vcstools/rosinstall/commit/c33f88d7c93024491c8f8f062ebab3827b7f9ae8",
       "git:hexsha": "c33f88d7c93024491c8f8f062ebab3827b7f9ae8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/vcstools/rosinstall/commit/eeb64ea47763da0f4207ba397725545cf208dd9a",
